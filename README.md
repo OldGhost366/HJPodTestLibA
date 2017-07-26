@@ -23,7 +23,7 @@ pod "HJPodTestLibA"
 
 ## Author
 
-OldGhost366, huj@getui.com
+OldGhost366
 
 ## License
 
